@@ -1,0 +1,184 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "department": "Marketing",
+        "salary": 50000,
+        "join_date": "2022-01-01"
+    },
+    {
+        "id": 2,
+        "name": "Jane Doe",
+        "department": "Sales",
+        "salary": 60000,
+        "join_date": "2022-01-01"
+    },
+    {
+        "id": 3,
+        "name": "John Smith",
+        "department": "Marketing",
+        "salary": 50000,
+        "join_date": "2021-05-15"
+    },
+    {
+        "id": 4,
+        "name": "Jane Smith",
+        "department": "Sales",
+        "salary": 60000,
+        "join_date": "2022-11-09"
+    },
+    {
+        "id": 5,
+        "name": "Mark Johnson",
+        "department": "Finance",
+        "salary": 70000,
+        "join_date": "2023-02-28"
+    },
+    {
+        "id": 6,
+        "name": "Mary Johnson",
+        "department": "Finance",
+        "salary": 70000,
+        "join_date": "2023-02-28"
+    },
+    {
+        "id": 7,
+        "name": "David Williams",
+        "department": "Marketing",
+        "salary": 50000,
+        "join_date": "2021-05-15"
+    },
+    {
+        "id": 8,
+        "name": "Patricia Williams",
+        "department": "Sales",
+        "salary": 60000,
+        "join_date": "2022-11-09"
+    },
+    {
+        "id": 9,
+        "name": "James Brown",
+        "department": "Finance",
+        "salary": 70000,
+        "join_date": "2023-02-28"
+    },
+    {
+        "id": 10,
+        "name": "Jennifer Brown",
+        "department": "Finance",
+        "salary": 70000,
+        "join_date": "2023-02-28"
+    },
+    {
+        "id": 11,
+        "name": "John Miller",
+        "department": "Marketing",
+        "salary": 50000,
+        "join_date": "2021-05-15"
+    },
+    {
+        "id": 12,
+        "name": "Susan Miller",
+        "department": "Sales",
+        "salary": 60000,
+        "join_date": "2022-11-09"
+    },
+    {
+        "id": 13,
+        "name": "Michael Davis",
+        "department": "Finance",
+        "salary": 70000,
+        "join_date": "2023-02-28"
+    },
+    {
+        "id": 14,
+        "name": "Linda Davis",
+        "department": "Finance",
+        "salary": 70000,
+        "join_date": "2023-02-28"
+    },
+    {
+        "id": 15,
+        "name": "Robert Garcia",
+        "department": "Marketing",
+        "salary": 50000,
+        "join_date": "2021-05-15"
+    },
+    {
+        "id": 16,
+        "name": "Karen Garcia",
+        "department": "Sales",
+        "salary": 60000,
+        "join_date": "2022-11-09"
+    },
+    {
+        "id": 17,
+        "name": "William Rodriguez",
+        "department": "Finance",
+        "salary": 70000,
+        "join_date": "2023-02-28"
+    },
+    {
+        "id": 18,
+        "name": "Lisa Rodriguez",
+        "department": "Finance",
+        "salary": 70000,
+        "join_date": "2023-02-28"
+    },
+    {
+        "id": 19,
+        "name": "Richard Wilson",
+        "department": "Marketing",
+        "salary": 50000,
+        "join_date": "2021-05-15"
+    },
+    {
+        "id": 20,
+        "name": "Donna Wilson",
+        "department": "Sales",
+        "salary": 60000,
+        "join_date": "2022-11-09"
+    },
+    {
+        "id": 21,
+        "name": "Thomas Martinez",
+        "department": "Finance",
+        "salary": 70000,
+        "join_date": "2023-02-28"
+    },
+    {
+        "id": 22,
+        "name": "Michelle Martinez",
+        "department": "Finance",
+        "salary": 70000,
+        "join_date": "2023-02-28"
+    },
+    {
+        "id": 23,
+        "name": "Charles Robinson",
+        "department": "Marketing",
+        "salary": 50000,
+        "join_date": "2021-05-15"
+    },
+    {
+        "id": 24,
+        "name": "Jessica Robinson",
+        "department": "Sales",
+        "salary": 60000,
+        "join_date": "2022-11-09"
+    },
+    {
+        "id": 25,
+        "name": "Daniel Clark",
+        "department": "Finance",
+        "salary": 70000,
+        "join_date": "2023-02-28"
+    },
+    {
+        "id": 26,
+        "name": "Ashley Clark",
+        "department": "Finance",
+        "salary": 70000,
+        "join_date": "2023-02-28"
+    }
+]
