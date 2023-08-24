@@ -171,7 +171,7 @@ def load(df: pd.DataFrame) -> None:
 Since the `id` is auto crementing, we removed them in the transform step.
 
 5. Error handling and data quality
-Error handling is in the file [./Q2.py](source code).
+Error handling is in the file [source code](./Q2.py).
 
 Data quality:
 ```python
@@ -286,4 +286,4 @@ WHERE
 - Denomalize the 2 tables into 1 and apply dimensional modeling. Hence the fact-orders will have information like total good amount, total order count, ... And dimension tables such as dim-date, dim-client, dim-good store additional information for analytics
 
 ### Question 5
-Here's the program solved using python: [./Q5.py](program).
+Here's the program solved using python: [source code](./Q5.py).
